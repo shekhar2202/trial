@@ -8,7 +8,7 @@ import Dashboard from './components/Dashboard';
 import ComplaintForm from './components/ComplaintForm';
 import AdminDashboard from './components/AdminDashboard';
 
-// Set base URL for axios
+
 axios.defaults.baseURL = 'http://localhost:5000/api';
 
 function App() {
